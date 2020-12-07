@@ -5,6 +5,12 @@ You will be creating the popular game of Hangman as a JavaScript console game!
 
 Make sure you break the problem down and timebox. You are encouraged to base your solution on the functions/objects below (You don't have to write the objects/functions in order , but make a plan on how to tackle this project in small steps and commit often)
 
+## Submission Guidelines
+
+- Submit your homework via github pull request and please don't forget to fill out the form!
+- Need a reminder on how to submit homework? [here](https://git.generalassemb.ly/seir-alahsa/w01d01/blob/master/notes/note_w01d01.03_hw_submission/note_w01d01-homework-submission.md)
+
+
 **Note:** It is encouraged that you follow the basic structure/recommended functions below. But if you work out a different solution to acomplish game play that's ok! Roll with it!
 
 ## words
@@ -102,7 +108,7 @@ Suggested functionality:
 * After the game is over, give the user the option to either quit or start a new game, and implement the necessary code for this feature to work
 * Hook it up to the DOM
 * Improve user experience - allow users to enter upperletters or lowercase letters, let a user know they entered an invalid character (number, symbol), let a user know they entered more than one character, add more informative prompts/alerts and more!
-* Switch from prompt/alert in the browser to an input field  and display the game progress in the browser (render guessed word, show played letters, number of guesses left). We will be covering how to do this in class next week. But if you are excited to research and implement this on your own- go for it!
+* Switch from prompt/alert in the browser to an input field  and display the game progress in the browser (render guessed word, show played letters, number of guesses left). We will be covering how to do this in class later this week. But if you are excited to research and implement this on your own- go for it!
 * Implement ascii graphic which shows more of a hangman for each wrong guess [hint hint](https://www.npmjs.com/package/ascii-art) :
 ```
 ------|
@@ -113,3 +119,5 @@ Suggested functionality:
 W_DE__A_D
 ```
 0
+
+---
