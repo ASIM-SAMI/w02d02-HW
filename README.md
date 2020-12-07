@@ -39,7 +39,7 @@ An object literal that has the following attributes
 
 ## Letter()
 
-Letter is a object you run as you run the game Hangman, you will need information about each letter - what is its value? Is it hidden? You will also need a way to change its state (from hidden to not hidden), depending if the player has guessed the letter. 
+Letter is a object you edit/run its functions as you play the Hangman game, you will need information about each letter - what is its value? Is it hidden? You will also need a way to change its state (from hidden to not hidden), depending if the player has guessed the letter. 
 
 #### Object Attributes
 
